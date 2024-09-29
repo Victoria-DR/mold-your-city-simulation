@@ -1,0 +1,917 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "South Ferry"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0008941999999905192,
+                    40.7020208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Whitehall St-South Ferry"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0013125999999914484,
+                    40.7017398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Bowling Green"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    40.704516999999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Rector St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0006559999999922184,
+                    40.707972999999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Broad St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.003046199999999999,
+                    40.7063239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Wall St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.002448999999998591,
+                    40.707664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "WTC Cortlandt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.002147199999996019,
+                    40.7117347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Cortlandt St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.003503999999992402,
+                    40.71100560000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Fulton St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0061109999999899856,
+                    40.709804999999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "World Trade Center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.004127999999994358,
+                    40.712097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Park Place"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.005011099999990165,
+                    40.713242199999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Chambers St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.005748799999992116,
+                    40.714196099999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "City Hall"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00743899999999087,
+                    40.713364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Brooklyn Bridge-City Hall"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.010107599999997774,
+                    40.7130751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Clark St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.021010999999987234,
+                    40.697536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Court St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.02282699999999238,
+                    40.694016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Borough Hall"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.023635999999996216,
+                    40.692513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "High St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.02439899999998829,
+                    40.699290999999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Jay St-MetroTech"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.026992999999990275,
+                    40.692637999999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Bergen St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.02334769999998798,
+                    40.6860864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Jay St - MetroTech"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.028636999999989143,
+                    40.6921574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Hoyt St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.02924659999999335,
+                    40.690534899999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "York St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.027663999999987254,
+                    40.701378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Hoyt - Schermerhorn Sts"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.029487999999986414,
+                    40.688587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "DeKalb Av"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.03250899999999035,
+                    40.690532999999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Nevins St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.03374649999999235,
+                    40.6882938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Carroll St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.01932499999999493,
+                    40.680133999999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Atlantic Av-Barclays Ctr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.03659799999999791,
+                    40.684360999999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Atlantic Av - Barclays Ctr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.03659799999999791,
+                    40.68436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Lafayette Av"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.040600399999974,
+                    40.6859773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Clinton-Washington Avs"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.04671709999999507,
+                    40.6880915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "East Broadway"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.02417599999999709,
+                    40.7141709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Delancey St\u2013 Essex St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.026077599999993595,
+                    40.7185592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Grand St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.020483299999995097,
+                    40.7182743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Bowery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.02077499999998622,
+                    40.720158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Franklin Street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.007426899999984471,
+                    40.719508999999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Canal St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.014113999999992188,
+                    40.717815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Spring St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.017127999999999588,
+                    40.722301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "2 Av"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.024123999999986268,
+                    40.723385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Broadway-Lafayette St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.01847289999999191,
+                    40.7252833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Bleecker St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.019607999999990966,
+                    40.725913999999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Prince St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.01646099999999251,
+                    40.7242323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Astor Pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.023158199999997464,
+                    40.7300556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Houston St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.008934199999998782,
+                    40.728452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "8 St-NYU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.021888199999992253,
+                    40.730635899999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "1 Av"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.032809399999990774,
+                    40.7308994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "3 Av"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.027880799999991268,
+                    40.73294930000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "14 St - Union Sq"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.024313699999993332,
+                    40.734674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "14 St\u2013Union Sq"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.023700099999999225,
+                    40.7357368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "Christopher St-Stonewall"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.011458899999993832,
+                    40.7336026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "W 4 St-Wash Sq"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.013770999999991318,
+                    40.732338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "14 St / 8 Av"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.012235399999994456,
+                    40.7404686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "14 St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.014194699999990235,
+                    40.7380731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "6 Av"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.017383299999991664,
+                    40.737375899999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "18 St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.01638929999998595,
+                    40.741069499999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "23 St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.027892099999988318,
+                    40.740196999999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "marker-color": "#797979",
+                "name": "28 St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.03019699999998693,
+                    40.743328000000005
+                ]
+            }
+        }
+    ]
+}
