@@ -7,8 +7,8 @@ dependencies:
   - pillow
   - xeus-python
   - pip
-  - anaconda::tornado
   - pip:
+    - tornado
     - numpy
     - matplotlib
     - pandas
