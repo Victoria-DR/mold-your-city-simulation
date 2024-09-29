@@ -3,17 +3,27 @@ channels:
   - https://repo.mamba.pm/emscripten-forge
   - conda-forge
 dependencies:
+  - python=3.11
   - jupyter
   - pillow
   - xeus-python
+  - numpy
+  - matplotlib
+  - pandas
+  - geopandas
+  - networkx
+  - scipy
+  - empiricaldist
+  - requests
+  - python-dotenv
+  - tornado
   - pip
   - pip:
-    - numpy
-    - matplotlib
-    - pandas
-    - geopandas
-    - networkx
-    - scipy
-    - empiricaldist
-    - requests
-    - python-dotenv
+      - jupyterlite-core==0.4.1
+      - jupyterlab-server>=2.27.1
+      - jupyterlite-xeus==2.0.0
+      - jupyter-server>=2.4.0
+      - jinja2>=3.0.3
+      - httpx>=0.25.0
+      - packaging
+      - async-lru
