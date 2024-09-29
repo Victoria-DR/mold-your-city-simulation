@@ -1,11 +1,21 @@
 # Core modules (mandatory)
+# jupyterlite-core==0.4.1
+# jupyterlab~=4.2.5
+# notebook~=7.2.2
+# tornado>=6.2.0
 jupyterlite-core==0.4.1
-jupyterlab~=4.2.5
-notebook~=7.2.2
+jupyterlab-server>=2.27.1
+jupyterlite-xeus==2.0.0
+jupyter-server>=2.4.0
+jinja2>=3.0.3
+httpx>=0.25.0
+packaging
+async-lru
 tornado>=6.2.0
+rtree
 
 # Python kernel (optional)
-jupyterlite-xeus
+# jupyterlite-xeus
 
 # # JavaScript kernel (optional)
 # jupyterlite-javascript-kernel==0.3.0
