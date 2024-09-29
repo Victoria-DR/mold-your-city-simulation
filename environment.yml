@@ -27,3 +27,5 @@ dependencies:
       - httpx>=0.25.0
       - packaging
       - async-lru
+      - tornado>=6.2.0
+      - rtree
