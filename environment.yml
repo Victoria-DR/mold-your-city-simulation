@@ -8,7 +8,6 @@ dependencies:
   - xeus-python
   - pip
   - pip:
-    - tornado
     - numpy
     - matplotlib
     - pandas

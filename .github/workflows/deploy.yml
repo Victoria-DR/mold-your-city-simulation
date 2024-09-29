@@ -33,6 +33,9 @@ jobs:
       # - name: Activate the environment
       #   run: |
       #     conda activate slime
+      - name: Install tornado
+        run: |
+          conda install anaconda::tornado
       - name: Build the JupyterLite site
         run: |
           cp README.md content
