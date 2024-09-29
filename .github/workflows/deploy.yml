@@ -30,6 +30,9 @@ jobs:
           activate-environment: slime
           environment-file: environment.yml
           auto-activate-base: false
+      - name: Activate the environment
+        run: |
+          conda activate slime
       - name: Build the JupyterLite site
         run: |
           cp README.md content
